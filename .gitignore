@@ -12,3 +12,6 @@ gcp-credentials.json.json
 
 __pycache__/
 *.pyc
+
+# Bitácora (documento educativo local)
+bitacora.md
